@@ -1,2 +1,3 @@
 # SampleLoggerSDK
-Sample to test framework
+Pod Installation:
+pod 'SampleLoggerSDK'
